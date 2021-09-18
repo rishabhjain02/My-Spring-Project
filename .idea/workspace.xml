@@ -27,7 +27,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1yJQ3UoDsS3fl1v63PQuwFejdVQ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -79,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
